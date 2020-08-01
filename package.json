@@ -1,9 +1,7 @@
 {
-  "name": "wp-react-pluign-test",
+  "name": "wpreact-pluign",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:codearryaas/wp-react-pluign-test.git",
-  "author": "kodeninja <codearryaas@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "wp-scripts build",
